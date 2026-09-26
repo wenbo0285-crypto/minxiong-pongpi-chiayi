@@ -1,0 +1,10 @@
+{
+  "name": "民雄椪皮麵 嘉義分店",
+  "short_name": "民雄椪皮麵",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5efe5",
+  "theme_color": "#211d18",
+  "icons": []
+}
