@@ -7,4 +7,4 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
-Sitemap: https://wenbo0285-crypto.github.io/minxiong-pongpi-chiayi/sitemap.xml
+Sitemap: https://minxiong-pongpi-chiayi.netlify.app/sitemap.xml
